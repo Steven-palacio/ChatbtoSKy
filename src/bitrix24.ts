@@ -1,1 +1,96 @@
-const _0x3e5d=['\x41\x50\x49\x5f\x42\x49\x54\x52\x49\x58\x5f\x55\x52\x4c','\x2f\x63\x72\x6d\x2e\x63\x6f\x6e\x74\x61\x63\x74\x2e\x6c\x69\x73\x74','\x72\x65\x73\x75\x6c\x74','\x45\x72\x72\x6f\x72\x20\x61\x6c\x20\x62\x75\x73\x63\x61\x72\x20\x63\x6f\x6e\x74\x61\x63\x74\x6f\x20\x65\x6e\x20\x42\x69\x74\x72\x69\x78\x32\x34\x3a','\x64\x61\x74\x61','\x6d\x65\x73\x73\x61\x67\x65','\x2f\x63\x72\x6d\x2e\x6c\x65\x61\x64\x2e\x61\x64\x64','\x4e\x75\x65\x76\x6f\x20\x4c\x65\x61\x64\x20\x64\x65\x73\x64\x65\x20\x43\x68\x61\x74\x62\x6f\x74','\x4e\x6f\x6d\x62\x72\x65','\x41\x70\x65\x6c\x6c\x69\x64\x6f','\x57\x4f\x52\x4b','\x4e\x45\x57','\x4e\x6f\x20\x73\x65\x20\x70\x75\x64\x6f\x20\x63\x72\x65\x61\x72\x20\x65\x6c\x20\x6c\x65\x61\x64\x20\x65\x6e\x20\x42\x69\x74\x72\x69\x78\x32\x34\x2e','\x45\x72\x72\x6f\x72\x20\x61\x6c\x20\x63\x72\x65\x61\x72\x20\x6c\x65\x61\x64\x20\x65\x6e\x20\x42\x69\x74\x72\x69\x78\x32\x34\x3a','\x61\x78\x69\x6f\x73','\x67\x65\x74','\x70\x61\x72\x61\x6d\x73','\x46\x49\x4c\x54\x45\x52','\x45\x4d\x41\x49\x4c','\x53\x45\x4c\x45\x43\x54','\x49\x44','\x4e\x41\x4d\x45','\x4c\x41\x53\x54\x5f\x4e\x41\x4d\x45','\x4f\x52\x44\x45\x52','\x44\x45\x53\x43','\x6c\x6f\x67','\x65\x72\x72\x6f\x72','\x70\x6f\x73\x74'];(function(_0x2b8d05,_0x3e5d4f){const _0x2a7a3a=function(_0x3a6a1d){while(--_0x3a6a1d){_0x2b8d05['\x70\x75\x73\x68'](_0x2b8d05['\x73\x68\x69\x66\x74']());}};_0x2a7a3a(++_0x3e5d4f);}(_0x3e5d,0x11a));const _0x2a7a=function(_0x2b8d05,_0x3e5d4f){_0x2b8d05=_0x2b8d05-0x0;let _0x2a7a3a=_0x3e5d[_0x2b8d05];return _0x2a7a3a;};const axios=require(_0x2a7a('0xe')),_0x5a8d3c=process[_0x2a7a('0x0')][_0x2a7a('0x1')];async function findContactByEmail(_0x3a6a1d){const _0x2b8d05=_0x2a7a;try{const _0x3e5d4f=await axios[_0x2b8d05('0xf')](`${_0x5a8d3c}${_0x2b8d05('0x1')}`,{[_0x2b8d05('0x10')]:{[_0x2b8d05('0x11')]:{[_0x2b8d05('0x12')]:_0x3a6a1d},[_0x2b8d05('0x13')]:[_0x2b8d05('0x14'),_0x2b8d05('0x15'),_0x2b8d05('0x16')],[_0x2b8d05('0x17')]:{[_0x2b8d05('0x14')]:_0x2b8d05('0x18')}}});if(_0x3e5d4f[_0x2b8d05('0x4')][_0x2b8d05('0x2')]&&_0x3e5d4f[_0x2b8d05('0x4')][_0x2b8d05('0x2')][_0x2b8d05('0x19')]>0x0){return _0x3e5d4f[_0x2b8d05('0x4')][_0x2b8d05('0x2')][0x0];}return null;}catch(_0x2a7a3a){console[_0x2b8d05('0x1a')](_0x2b8d05('0x3'),_0x2a7a3a[_0x2b8d05('0x4')]?.[_0x2b8d05('0x4')]||_0x2a7a3a[_0x2b8d05('0x5')]);throw _0x2a7a3a;}}async function createLead(_0x3a6a1d){const _0x2b8d05=_0x2a7a;try{const _0x2a7a3a={[_0x2b8d05('0x7')]:_0x2b8d05('0x8'),[_0x2b8d05('0x15')]:_0x2b8d05('0x9'),[_0x2b8d05('0x16')]:_0x2b8d05('0xa'),[_0x2b8d05('0x12')]:[{[_0x2b8d05('0x5')]:_0x3a6a1d,[_0x2b8d05('0xb')]:_0x2b8d05('0xc')}],[_0x2b8d05('0xd')]:_0x2b8d05('0xe')};const _0x3e5d4f=await axios[_0x2b8d05('0x1d')](`${_0x5a8d3c}${_0x2b8d05('0x6')}`,_0x2a7a3a);if(_0x3e5d4f[_0x2b8d05('0x4')][_0x2b8d05('0x2')]){return _0x3e5d4f[_0x2b8d05('0x4')][_0x2b8d05('0x2')];}throw new Error(_0x2b8d05('0x13'));}catch(_0x3e5d4f){console[_0x2b8d05('0x1b')](_0x2b8d05('0x1c'),_0x3e5d4f[_0x2b8d05('0x4')]?.[_0x2b8d05('0x4')]||_0x3e5d4f[_0x2b8d05('0x5')]);throw _0x3e5d4f;}}export{findContactByEmail,createLead};
+// src/bitrix24.ts
+
+import axios, { AxiosResponse } from "axios";
+
+const BITRIX24_WEBHOOK_URL = process.env.API_BITRIX_URL; // Asegúrate de que termina con '/'
+
+export interface Bitrix24ContactEmail {
+  VALUE: string;
+  VALUE_TYPE: string;
+}
+
+export interface Bitrix24Contact {
+  ID: number;
+  NAME: string;
+  LAST_NAME: string;
+  EMAIL: Bitrix24ContactEmail[];
+  // Añade otros campos según tu configuración de Bitrix24
+}
+
+export interface Bitrix24ContactListResponse {
+  result: Bitrix24Contact[];
+}
+
+export interface Bitrix24LeadCreateResponse {
+  result: number; // ID del lead creado
+}
+
+/**
+ * Busca un contacto en Bitrix24 por su correo electrónico.
+ * @param email - El correo electrónico a buscar.
+ * @returns El contacto si existe; de lo contrario, null.
+ */
+export async function findContactByEmail(
+  email: string
+): Promise<Bitrix24Contact | null> {
+  try {
+    const response: AxiosResponse<Bitrix24ContactListResponse> =
+      await axios.get(`${BITRIX24_WEBHOOK_URL}/crm.contact.list`, {
+        params: {
+          FILTER: { EMAIL: email },
+          SELECT: ["ID", "NAME", "LAST_NAME", "EMAIL"],
+          ORDER: { ID: "DESC" },
+        },
+      });
+
+    if (response.data.result && response.data.result.length > 0) {
+      return response.data.result[0];
+    }
+
+    return null;
+  } catch (error: any) {
+    console.error(
+      "Error al buscar contacto en Bitrix24:",
+      error.response?.data || error.message
+    );
+    throw error;
+  }
+}
+
+/**
+ * Crea un nuevo lead en Bitrix24.
+ * @param email - El correo electrónico del lead.
+ * @returns El ID del lead creado.
+ */
+export async function createLead(email: string): Promise<number> {
+  try {
+    const leadData = {
+      TITLE: "Nuevo Lead desde Chatbot",
+      NAME: "Nombre", // Puedes personalizar esto o solicitar más información al usuario
+      LAST_NAME: "Apellido",
+      EMAIL: [
+        {
+          VALUE: email,
+          VALUE_TYPE: "WORK",
+        },
+      ],
+      STATUS_ID: "NEW",
+      // Añade otros campos según tu configuración de Bitrix24
+    };
+
+    const response: AxiosResponse<Bitrix24LeadCreateResponse> =
+      await axios.post(`${BITRIX24_WEBHOOK_URL}/crm.lead.add`, leadData);
+
+    if (response.data.result) {
+      return response.data.result;
+    } else {
+      throw new Error("No se pudo crear el lead en Bitrix24.");
+    }
+  } catch (error: any) {
+    console.error(
+      "Error al crear lead en Bitrix24:",
+      error.response?.data || error.message
+    );
+    throw error;
+  }
+}

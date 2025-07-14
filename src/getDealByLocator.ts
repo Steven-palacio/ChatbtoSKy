@@ -1,1 +1,149 @@
-const _0x4f2d=['\x63\x6f\x6e\x66\x69\x67\x2f\x69\x6e\x73\x74\x61\x6e\x63\x65\x41\x78\x69\x6f\x73','\x49\x44','\x54\x49\x54\x4c\x45','\x55\x46\x5f\x43\x52\x4d\x5f\x31\x37\x32\x34\x37\x30\x38\x34\x33\x36','\x53\x54\x41\x54\x55\x53','\x55\x46\x5f\x43\x52\x4d\x5f\x31\x37\x32\x33\x38\x32\x32\x37\x31\x32','\x55\x46\x5f\x43\x52\x4d\x5f\x31\x37\x32\x34\x37\x30\x33\x34\x34\x30','\x55\x46\x5f\x43\x52\x4d\x5f\x31\x37\x32\x34\x37\x30\x33\x39\x30\x38','\x55\x46\x5f\x43\x52\x4d\x5f\x31\x37\x32\x34\x37\x30\x33\x39\x34\x33','\x56\x41\x4c\x55\x45','\x41\x6e\x67\x75\x69\x6c\x61\x20\x28\x41\x58\x41\x29','\x41\x6e\x74\x69\x67\x75\x61\x20\x28\x41\x4e\x55\x29','\x41\x72\x75\x62\x61\x20\x28\x41\x55\x41\x29','\x42\x6f\x6e\x61\x69\x72\x65\x20\x28\x42\x4f\x4e\x29','\x43\x61\x72\x61\x63\x61\x73\x20\x28\x43\x43\x53\x29','\x43\x75\x72\x61\x7a\x61\x6f\x20\x28\x43\x55\x52\x29','\x47\x65\x6f\x72\x67\x65\x74\x6f\x77\x6e\x20\x28\x47\x45\x4f\x29','\x47\x75\x61\x64\x61\x6c\x75\x70\x65\x20\x28\x50\x54\x50\x29','\x4c\x61\x20\x48\x61\x62\x61\x6e\x61\x20\x28\x48\x41\x56\x29','\x4d\x61\x72\x74\x69\x6e\x69\x63\x61\x20\x28\x46\x44\x46\x29','\x4d\x69\x61\x6d\x69\x20\x28\x4d\x49\x41\x29','\x53\x61\x6e\x74\x69\x61\x67\x6f\x20\x64\x65\x20\x43\x75\x62\x61\x20\x28\x53\x43\x55\x29','\x53\x61\x6e\x74\x6f\x20\x44\x6f\x6d\x69\x6e\x67\x6f\x20\x28\x53\x44\x51\x29','\x53\x74\x2e\x20\x4b\x69\x74\x74\x73\x20\x28\x53\x4b\x42\x29','\x56\x61\x6c\x65\x6e\x63\x69\x61\x20\x28\x56\x4c\x4e\x29','\x43\x61\x79\x65\x6e\x6e\x65\x20\x47\x75\x79\x61\x6e\x61\x20\x46\x72\x61\x6e\x63\x65\x73\x61\x20\x28\x43\x41\x59\x29','\x56\x61\x6c\x6f\x72\x20\x6e\x6f\x20\x65\x6e\x63\x6f\x6e\x74\x72\x61\x64\x6f','\x70\x61\x64\x53\x74\x61\x72\x74','\x72\x65\x73\x75\x6c\x74','\x6e\x65\x78\x74','\x2f\x63\x72\x6d\x2e\x64\x65\x61\x6c\x2e\x6c\x69\x73\x74\x2e\x6a\x73\x6f\x6e','\x66\x69\x6c\x74\x65\x72','\x73\x65\x6c\x65\x63\x74','\x73\x74\x61\x72\x74','\x45\x72\x72\x6f\x72\x20\x61\x6c\x20\x6f\x62\x74\x65\x6e\x65\x72\x20\x65\x6c\x20\x64\x65\x61\x6c\x3a','\x45\x72\x72\x6f\x72\x20\x61\x6c\x20\x6f\x62\x74\x65\x6e\x65\x72\x20\x65\x6c\x20\x64\x65\x61\x6c\x2e','\x6c\x6f\x67','\x65\x72\x72\x6f\x72','\x70\x6f\x73\x74','\x66\x69\x6e\x64'];(function(_0x2a8d05,_0x4f2d4f){const _0x297a3a=function(_0x3a6a1d){while(--_0x3a6a1d){_0x2a8d05['\x70\x75\x73\x68'](_0x2a8d05['\x73\x68\x69\x66\x74']());}};_0x297a3a(++_0x4f2d4f);}(_0x4f2d,0x136));const _0x297a=function(_0x2a8d05,_0x4f2d4f){_0x2a8d05=_0x2a8d05-0x0;let _0x297a3a=_0x4f2d[_0x2a8d05];return _0x297a3a;};const _0x5a8d3c=require(_0x297a('0x0')),_0x3a6a1d=[{[_0x297a('0x1')]:_0x297a('0xa'),[_0x297a('0x9')]:_0x297a('0xb')},{[_0x297a('0x1')]:_0x297a('0xc'),[_0x297a('0x9')]:_0x297a('0xd')},{[_0x297a('0x1')]:_0x297a('0xe'),[_0x297a('0x9')]:_0x297a('0xf')},{[_0x297a('0x1')]:_0x297a('0x10'),[_0x297a('0x9')]:_0x297a('0x11')},{[_0x297a('0x1')]:_0x297a('0x12'),[_0x297a('0x9')]:_0x297a('0x13')},{[_0x297a('0x1')]:_0x297a('0x14'),[_0x297a('0x9')]:_0x297a('0x15')},{[_0x297a('0x1')]:_0x297a('0x16'),[_0x297a('0x9')]:_0x297a('0x17')},{[_0x297a('0x1')]:_0x297a('0x18'),[_0x297a('0x9')]:_0x297a('0x19')},{[_0x297a('0x1')]:_0x297a('0x1a'),[_0x297a('0x9')]:_0x297a('0x1b')},{[_0x297a('0x1')]:_0x297a('0x1c'),[_0x297a('0x9')]:_0x297a('0x1d')},{[_0x297a('0x1')]:_0x297a('0x1e'),[_0x297a('0x9')]:_0x297a('0x1f')},{[_0x297a('0x1')]:_0x297a('0x20'),[_0x297a('0x9')]:_0x297a('0x21')},{[_0x297a('0x1')]:_0x297a('0x22'),[_0x297a('0x9')]:_0x297a('0x23')},{[_0x297a('0x1')]:_0x297a('0x24'),[_0x297a('0x9')]:_0x297a('0x25')}],_0x2a8d05=[{[_0x297a('0x1')]:_0x297a('0xa'),[_0x297a('0x9')]:_0x297a('0xb')},{[_0x297a('0x1')]:_0x297a('0xc'),[_0x297a('0x9')]:_0x297a('0xd')},{[_0x297a('0x1')]:_0x297a('0xe'),[_0x297a('0x9')]:_0x297a('0xf')},{[_0x297a('0x1')]:_0x297a('0x10'),[_0x297a('0x9')]:_0x297a('0x11')},{[_0x297a('0x1')]:_0x297a('0x12'),[_0x297a('0x9')]:_0x297a('0x13')},{[_0x297a('0x1')]:_0x297a('0x26'),[_0x297a('0x9')]:_0x297a('0x27')},{[_0x297a('0x1')]:_0x297a('0x14'),[_0x297a('0x9')]:_0x297a('0x15')},{[_0x297a('0x1')]:_0x297a('0x16'),[_0x297a('0x9')]:_0x297a('0x17')},{[_0x297a('0x1')]:_0x297a('0x18'),[_0x297a('0x9')]:_0x297a('0x19')},{[_0x297a('0x1')]:_0x297a('0x1a'),[_0x297a('0x9')]:_0x297a('0x1b')},{[_0x297a('0x1')]:_0x297a('0x1c'),[_0x297a('0x9')]:_0x297a('0x1d')},{[_0x297a('0x1')]:_0x297a('0x1e'),[_0x297a('0x9')]:_0x297a('0x1f')},{[_0x297a('0x1')]:_0x297a('0x20'),[_0x297a('0x9')]:_0x297a('0x21')},{[_0x297a('0x1')]:_0x297a('0x22'),[_0x297a('0x9')]:_0x297a('0x23')},{[_0x297a('0x1')]:_0x297a('0x24'),[_0x297a('0x9')]:_0x297a('0x25')}];function _0x4f2d4f(_0x2b7a3a,_0x5a8d3c){const _0x297a3a=_0x297a;const _0x3a6a1d=_0x2b7a3a[_0x297a3a('0x28')]((_0x2a8d05)=>_0x2a8d05[_0x297a3a('0x1')]===_0x5a8d3c);return _0x3a6a1d?_0x3a6a1d[_0x297a3a('0x9')]:_0x297a3a('0x1b');}function _0x2b7a3a(_0x5a8d3c){const _0x297a3a=_0x297a;const _0x3a6a1d=new Date(_0x5a8d3c);if(!isNaN(_0x3a6a1d['\x67\x65\x74\x54\x69\x6d\x65']())){return `${_0x3a6a1d['\x67\x65\x74\x44\x61\x74\x65']()[_0x297a3a('0x1c')](0x2,'0')}/${(_0x3a6a1d['\x67\x65\x74\x4d\x6f\x6e\x74\x68']()+0x1)[_0x297a3a('0x1c')](0x2,'0')}/${_0x3a6a1d['\x67\x65\x74\x46\x75\x6c\x6c\x59\x65\x61\x72']()}`;}return _0x5a8d3c;}async function getDealByLocator(_0x5a8d3c){const _0x297a3a=_0x297a;let _0x3a6a1d=0x0;try{while(!![]){const _0x2b7a3a=await _0x5a8d3c[_0x297a3a('0x25')](_0x297a3a('0x20'),{[_0x297a3a('0x21')]:{[_0x297a3a('0x3')]:_0x5a8d3c},[_0x297a3a('0x22')]:[_0x297a3a('0x1'),_0x297a3a('0x2'),_0x297a3a('0x3'),_0x297a3a('0x4'),_0x297a3a('0x5'),_0x297a3a('0x6'),_0x297a3a('0x7'),_0x297a3a('0x8')],[_0x297a3a('0x23')]:_0x3a6a1d}});const _0x2a8d05=_0x2b7a3a[_0x297a3a('0x15')][_0x297a3a('0x1d')];if(_0x2a8d05[_0x297a3a('0x19')]>0x0){const _0x4f2d4f=_0x2a8d05[_0x297a3a('0x28')]((_0x3a6a1d)=>_0x3a6a1d[_0x297a3a('0x3')]===_0x5a8d3c);if(_0x4f2d4f){_0x4f2d4f[_0x297a3a('0x5')]=_0x2b7a3a(_0x4f2d4f[_0x297a3a('0x5')]);_0x4f2d4f[_0x297a3a('0x6')]=_0x2b7a3a(_0x4f2d4f[_0x297a3a('0x6')]);_0x4f2d4f[_0x297a3a('0x7')]=_0x4f2d4f(_0x3a6a1d,_0x4f2d4f[_0x297a3a('0x7')]);_0x4f2d4f[_0x297a3a('0x8')]=_0x4f2d4f(_0x2a8d05,_0x4f2d4f[_0x297a3a('0x8')]);return _0x4f2d4f;}}if(_0x2b7a3a[_0x297a3a('0x15')][_0x297a3a('0x1e')]){_0x3a6a1d=_0x2b7a3a[_0x297a3a('0x15')][_0x297a3a('0x1e')];}else{break;}}return null;}catch(_0x4f2d4f){console[_0x297a3a('0x1f')](_0x297a3a('0x24'),_0x4f2d4f);throw new Error(_0x297a3a('0x25'));}}export default getDealByLocator;
+import instanceAxios from "./config/instanceAxios";
+
+// Interfaces
+interface Deal {
+  [x: string]: any;
+  ID: string;
+  TITLE: string;
+  UF_CRM_1724708436: string; // Campo del localizador
+  STATUS: string;
+  UF_CRM_1723822712: string; // Fecha que desea viajar
+  UF_CRM_1724703440: string; // Fecha de retorno
+  UF_CRM_1724703908: string; // Destino
+  UF_CRM_1724703943: string; // Origen
+}
+
+// Opciones de destino y origen (basado en tu estructura proporcionada)
+const destinationOptions = [
+  { ID: "291", VALUE: "Anguila (AXA)" },
+  { ID: "293", VALUE: "Antigua (ANU)" },
+  { ID: "295", VALUE: "Aruba (AUA)" },
+  { ID: "297", VALUE: "Bonaire (BON)" },
+  { ID: "299", VALUE: "Caracas (CCS)" },
+  { ID: "301", VALUE: "Curazao (CUR)" },
+  { ID: "303", VALUE: "Georgetown (GEO)" },
+  { ID: "305", VALUE: "Guadalupe (PTP)" },
+  { ID: "307", VALUE: "La Habana (HAV)" },
+  { ID: "309", VALUE: "Martinica (FDF)" },
+  { ID: "311", VALUE: "Miami (MIA)" },
+  { ID: "313", VALUE: "Santiago de Cuba (SCU)" },
+  { ID: "315", VALUE: "Santo Domingo (SDQ)" },
+  { ID: "317", VALUE: "St. Kitts (SKB)" },
+  { ID: "319", VALUE: "Valencia (VLN)" },
+];
+
+const originOptions = [
+  { ID: "321", VALUE: "Anguila (AXA)" },
+  { ID: "323", VALUE: "Antigua (ANU)" },
+  { ID: "325", VALUE: "Aruba (AUA)" },
+  { ID: "327", VALUE: "Bonaire (BON)" },
+  { ID: "329", VALUE: "Caracas (CCS)" },
+  { ID: "331", VALUE: "Cayenne Guyana Francesa (CAY)" },
+  { ID: "333", VALUE: "Curazao (CUR)" },
+  { ID: "335", VALUE: "Georgetown (GEO)" },
+  { ID: "337", VALUE: "Guadalupe (PTP)" },
+  { ID: "339", VALUE: "La Habana (HAV)" },
+  { ID: "341", VALUE: "Martinica (FDF)" },
+  { ID: "343", VALUE: "Miami (MIA)" },
+  { ID: "345", VALUE: "Santiago de Cuba (SCU)" },
+  { ID: "347", VALUE: "Santo Domingo (SDQ)" },
+  { ID: "349", VALUE: "St. Kitts (SKB)" },
+  { ID: "351", VALUE: "Valencia (VLN)" },
+];
+
+// Función para mapear los IDs a los valores textuales
+const mapSelectValue = (
+  options: Array<{ ID: string; VALUE: string }>,
+  id: string
+): string => {
+  const option = options.find((item) => item.ID === id);
+  return option ? option.VALUE : "Valor no encontrado";
+};
+
+// Función para formatear una fecha en formato legible
+const formatDate = (dateString: string): string => {
+  const date = new Date(dateString);
+  if (!isNaN(date.getTime())) {
+    // Formato: DD/MM/YYYY
+    return `${date.getDate().toString().padStart(2, "0")}/${(
+      date.getMonth() + 1
+    )
+      .toString()
+      .padStart(2, "0")}/${date.getFullYear()}`;
+  }
+  return dateString; // Si no es una fecha válida, devolvemos el valor original
+};
+
+interface Bitrix24Response {
+  result: Deal[];
+  next?: number; // Campo que indica si hay más páginas
+}
+
+// Función para obtener el deal por el código de localizador específico, con paginación
+const getDealByLocator = async (locator: string): Promise<Deal | null> => {
+  let start = 0;
+
+  try {
+    // Bucle para paginar los resultados de Bitrix24
+    while (true) {
+      // Hacemos la petición a Bitrix24 para buscar el deal por el campo personalizado UF_CRM_1724708436
+      const response = await instanceAxios.post<Bitrix24Response>(
+        "/crm.deal.list.json",
+        {
+          filter: { UF_CRM_1724708436: locator }, // Filtro para buscar por el localizador actualizado
+          select: [
+            "ID",
+            "TITLE",
+            "UF_CRM_1724708436", // Campo del localizador
+            "STATUS",
+            "UF_CRM_1723822712", // Fecha que desea viajar
+            "UF_CRM_1724703440", // Fecha de retorno
+            "UF_CRM_1724703908", // Destino
+            "UF_CRM_1724703943", // Origen
+          ], // Campos a seleccionar
+          start, // Paginación, comenzamos desde `start`
+        }
+      );
+
+      const deals = response.data.result;
+
+      // Si encontramos el deal, lo devolvemos
+      if (deals.length > 0) {
+        const dealFound = deals.find(
+          (deal) => deal.UF_CRM_1724708436 === locator
+        );
+        if (dealFound) {
+          // Formateamos las fechas antes de devolver el deal
+          dealFound.UF_CRM_1723822712 = formatDate(dealFound.UF_CRM_1723822712); // Fecha que desea viajar
+          dealFound.UF_CRM_1724703440 = formatDate(dealFound.UF_CRM_1724703440); // Fecha de retorno
+
+          // Mapeamos los valores de Destino y Origen
+          dealFound.UF_CRM_1724703908 = mapSelectValue(
+            destinationOptions,
+            dealFound.UF_CRM_1724703908
+          ); // Destino
+          dealFound.UF_CRM_1724703943 = mapSelectValue(
+            originOptions,
+            dealFound.UF_CRM_1724703943
+          ); // Origen
+
+          return dealFound; // Retornamos el deal encontrado con las fechas formateadas y los demás campos
+        }
+      }
+
+      // Verificamos si hay más páginas
+      if (response.data.next) {
+        start = response.data.next; // Actualizamos el punto de inicio para la próxima página
+      } else {
+        break; // No hay más páginas, terminamos el bucle
+      }
+    }
+
+    return null; // Si no se encuentra el deal, devolvemos null
+  } catch (error) {
+    console.error("Error al obtener el deal:", error);
+    throw new Error("Error al obtener el deal.");
+  }
+};
+
+export default getDealByLocator;

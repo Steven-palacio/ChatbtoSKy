@@ -1,1 +1,80 @@
-const _0x4a3d=['\x63\x6f\x6e\x66\x69\x67\x2f\x69\x6e\x73\x74\x61\x6e\x63\x65\x41\x78\x69\x6f\x73','\x3d\x3d\x3d\x20\x45\x6e\x74\x72\xf3\x20\x61\x20\x6c\x61\x20\x66\x75\x6e\x63\x69\xf3\x6e\x20\x64\x65\x20\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65\x20\x3d\x3d\x3d','\x64\x69\x61\x6c\x6f\x67\x49\x64','\x6d\x65\x73\x73\x61\x67\x65','\x63\x68\x61\x74\x49\x64','\x69\x73\x4c\x69\x6e\x6b','\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d\x3d','\x2f\x69\x6d\x62\x6f\x74\x2e\x6d\x65\x73\x73\x61\x67\x65\x2e\x61\x64\x64\x2e\x6a\x73\x6f\x6e','\x45\x6e\x76\x69\x61\x6e\x64\x6f\x20\x6d\x65\x6e\x73\x61\x6a\x65\x20\x61\x6c\x20\x63\x6c\x69\x65\x6e\x74\x65\x20\x61\x20\x74\x72\x61\x76\xe9\x73\x20\x64\x65\x20\x64\x69\x61\x6c\x6f\x67\x49\x64','\x42\x4f\x54\x5f\x49\x44','\x31\x33\x34\x37','\x43\x4c\x49\x45\x4e\x54\x5f\x49\x44','\x70\x72\x62\x61\x31\x6a\x66\x78\x73\x63\x32\x31\x66\x6a\x76\x73\x67\x69\x6d\x75\x64\x64\x78\x6b\x34\x76\x71\x67\x6d\x6e\x72\x32','\x44\x49\x41\x4c\x4f\x47\x5f\x49\x44','\x52\x65\x73\x70\x75\x65\x73\x74\x61\x20\x64\x65\x6c\x20\x6d\x65\x6e\x73\x61\x6a\x65\x20\x61\x6c\x20\x63\x6c\x69\x65\x6e\x74\x65','\x2f\x69\x6d\x6f\x70\x65\x6e\x6c\x69\x6e\x65\x73\x2e\x62\x6f\x74\x2e\x73\x65\x73\x73\x69\x6f\x6e\x2e\x6f\x70\x65\x72\x61\x74\x6f\x72\x2e\x6a\x73\x6f\x6e','\x45\x6e\x76\x69\x61\x6e\x64\x6f\x20\x6d\x65\x6e\x73\x61\x6a\x65\x20\x61\x6c\x20\x4f\x70\x65\x6e\x20\x43\x68\x61\x6e\x6e\x65\x6c\x20\x76\x69\x61\x20\x63\x68\x61\x74\x49\x64\x3a','\x43\x48\x41\x54\x5f\x49\x44','\x52\x65\x73\x70\x75\x65\x73\x74\x61\x20\x64\x65\x6c\x20\x6d\x65\x6e\x73\x61\x6a\x65\x20\x61\x6c\x20\x4f\x70\x65\x6e\x20\x43\x68\x61\x6e\x6e\x65\x6c','\x2f\x69\x6d\x6f\x70\x65\x6e\x6c\x69\x6e\x65\x73\x2e\x62\x6f\x74\x2e\x6d\x65\x73\x73\x61\x67\x65\x2e\x61\x64\x64\x2e\x6a\x73\x6f\x6e','\x45\x6e\x76\x69\x61\x6e\x64\x6f\x20\x75\x6e\x20\x65\x6e\x6c\x61\x63\x65\x20\x61\x6c\x20\x4f\x70\x65\x6e\x20\x43\x68\x61\x6e\x6e\x65\x6c','\x52\x65\x73\x70\x75\x65\x73\x74\x61\x20\x61\x6c\x20\x65\x6e\x76\x69\x61\x72\x20\x65\x6c\x20\x65\x6e\x6c\x61\x63\x65','\x45\x72\x72\x6f\x72\x20\x65\x6e\x20\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\x6c\x6f\x67','\x65\x72\x72\x6f\x72','\x70\x6f\x73\x74'];(function(_0x2c8d05,_0x4a3d4f){const _0x2b7a3a=function(_0x3a6a1d){while(--_0x3a6a1d){_0x2c8d05['\x70\x75\x73\x68'](_0x2c8d05['\x73\x68\x69\x66\x74']());}};_0x2b7a3a(++_0x4a3d4f);}(_0x4a3d,0x11a));const _0x2b7a=function(_0x2c8d05,_0x4a3d4f){_0x2c8d05=_0x2c8d05-0x0;let _0x2b7a3a=_0x4a3d[_0x2c8d05];return _0x2b7a3a;};const _0x5a8d3c=require(_0x2b7a('0x0'));async function sendMessage(_0x3a6a1d){const _0x2c8d05=_0x2b7a;try{console[_0x2c8d05('0x1a')](_0x2c8d05('0x1')),console[_0x2c8d05('0x1a')](_0x2c8d05('0x2')+_0x3a6a1d[_0x2c8d05('0x2')]),console[_0x2c8d05('0x1a')](_0x2c8d05('0x3')+_0x3a6a1d[_0x2c8d05('0x3')]),console[_0x2c8d05('0x1a')](_0x2c8d05('0x4')+_0x3a6a1d[_0x2c8d05('0x4')]),console[_0x2c8d05('0x1a')](_0x2c8d05('0x5')+_0x3a6a1d[_0x2c8d05('0x5')]),console[_0x2c8d05('0x1a')](_0x2c8d05('0x6'));if(_0x3a6a1d[_0x2c8d05('0x2')]){const _0x4a3d4f=_0x2c8d05('0x7');console[_0x2c8d05('0x1a')](_0x2c8d05('0x8'));const _0x2b7a3a=await _0x5a8d3c[_0x2c8d05('0x1d')](_0x4a3d4f,{[_0x2c8d05('0x9')]:_0x2c8d05('0xa'),[_0x2c8d05('0xb')]:_0x2c8d05('0xc'),[_0x2c8d05('0xd')]:_0x3a6a1d[_0x2c8d05('0x2')],[_0x2c8d05('0x3')]:_0x3a6a1d[_0x2c8d05('0x3')]});console[_0x2c8d05('0x1a')](_0x2c8d05('0xe')+_0x2b7a3a[_0x2c8d05('0x15')]);}if(_0x3a6a1d[_0x2c8d05('0x4')]){const _0x3a6a1d=_0x2c8d05('0xf');console[_0x2c8d05('0x1a')](_0x2c8d05('0x10')+_0x3a6a1d[_0x2c8d05('0x4')]);const _0x4a3d4f=await _0x5a8d3c[_0x2c8d05('0x1d')](_0x3a6a1d,{[_0x2c8d05('0x9')]:_0x2c8d05('0xa'),[_0x2c8d05('0xb')]:_0x2c8d05('0xc'),[_0x2c8d05('0x11')]:_0x3a6a1d[_0x2c8d05('0x4')]});console[_0x2c8d05('0x1a')](_0x2c8d05('0x12')+_0x4a3d4f[_0x2c8d05('0x15')]);}if(_0x3a6a1d[_0x2c8d05('0x5')]&&_0x3a6a1d[_0x2c8d05('0x4')]){const _0x2b7a3a=_0x2c8d05('0x13');console[_0x2c8d05('0x1a')](_0x2c8d05('0x14'));const _0x4a3d4f=await _0x5a8d3c[_0x2c8d05('0x1d')](_0x2b7a3a,{[_0x2c8d05('0x9')]:_0x2c8d05('0xa'),[_0x2c8d05('0xb')]:_0x2c8d05('0xc'),[_0x2c8d05('0x11')]:_0x3a6a1d[_0x2c8d05('0x4')],[_0x2c8d05('0x3')]:_0x3a6a1d[_0x2c8d05('0x3')]});console[_0x2c8d05('0x1a')](_0x2c8d05('0x16')+_0x4a3d4f[_0x2c8d05('0x15')]);}}catch(_0x2b7a3a){console[_0x2c8d05('0x1b')](_0x2c8d05('0x17'),_0x2b7a3a);}}export default sendMessage;
+import instanceAxios from "./config/instanceAxios";
+
+// Interfaces
+interface infoSendMessage {
+  dialogId: string;
+  message: string;
+  chatId: string;
+  isLink?: boolean; // Añadido para diferenciar si el mensaje es un link
+}
+
+// Función para enviar mensajes
+const sendMessage = async ({
+  dialogId,
+  message,
+  chatId,
+  isLink = false,
+}: infoSendMessage) => {
+  try {
+    console.log("=== Entró a la función de sendMessage ===");
+    console.log("dialogId:", dialogId);
+    console.log("message:", message);
+    console.log("chatId:", chatId);
+    console.log("isLink:", isLink);
+    console.log("=====================================");
+
+    // Enviar mensaje al diálogo del cliente (DIALOG_ID)
+    if (dialogId) {
+      const webhook = "/imbot.message.add.json";
+      console.log("Enviando mensaje al cliente a través de dialogId");
+
+      const response = await instanceAxios.post(webhook, {
+        BOT_ID: "1347",
+        CLIENT_ID: "prba1jfxsc21fjvsgimuddxk4vqgmnr2",
+        DIALOG_ID: dialogId,
+        MESSAGE: message,
+      });
+
+      console.log("Respuesta del mensaje al cliente:", response.data);
+    }
+
+    // Verificar si debemos enviar el mensaje al Open Channel (CHAT_ID)
+    if (chatId) {
+      const webhookTransferToFreeAgent = `/imopenlines.bot.session.operator.json`;
+      console.log("Enviando mensaje al Open Channel via chatId:", chatId);
+
+      const transferResponse = await instanceAxios.post(
+        webhookTransferToFreeAgent,
+        {
+          BOT_ID: "1347",
+          CLIENT_ID: "prba1jfxsc21fjvsgimuddxk4vqgmnr2",
+          CHAT_ID: chatId,
+        }
+      );
+
+      console.log(
+        "Respuesta del mensaje al Open Channel:",
+        transferResponse.data
+      );
+    }
+
+    // Si es un link, manejar la transferencia al Open Channel
+    if (isLink && chatId) {
+      const webhookLinkTransfer = "/imopenlines.bot.message.add.json";
+      console.log("Enviando un enlace al Open Channel");
+
+      const linkResponse = await instanceAxios.post(webhookLinkTransfer, {
+        BOT_ID: "1347",
+        CLIENT_ID: "prba1jfxsc21fjvsgimuddxk4vqgmnr2",
+        CHAT_ID: chatId,
+        MESSAGE: message,
+      });
+
+      console.log("Respuesta al enviar el enlace:", linkResponse.data);
+    }
+  } catch (error) {
+    console.error("Error en sendMessage:", error);
+  }
+};
+
+export default sendMessage;
